@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "facial expression",
+        "value": "whistling face"
+      },
+      {
+        "trait_type": "varieties",
+        "value": "eggplant"
+      },
+      {
+         "trait_type" :"background",
+         "value":"pink"
+      }
+    ],
+    "description": "私はうんちくんdao!",
+    "image": "",
+    "name": "unchi001"
+  }
+  
